@@ -1,0 +1,10 @@
+# Ignorar Node Modules
+node_modules/
+
+# Archivos de dependencias
+package-lock.json
+package.json
+
+# Archivos de compilación de C#
+bin/
+obj/
